@@ -41,6 +41,7 @@ as well as a general tool for working with unification and term rewriting.
 - Moving the Bar on Computationally Sound Exclusive-Or
 
 ### Workshop:
-- [	Checking Symbolic Security of Cryptographic Modes of Operation](https://www.uoh.cl/unif-2021/assets/proceedings-UNIF2021.pdf)
-- [Formal Analysis of Symbolic Authenticity ](https://www.uoh.cl/unif-2021/assets/proceedings-UNIF2021.pdf)
-- [Algorithmic Problems in Synthesized Cryptosystems](http://www3.risc.jku.at/publications/download/risc_6129/proceedings-UNIF2020.pdf)
+- [Checking Symbolic Security of Cryptographic Modes of Operation](https://www.uoh.cl/unif-2021/assets/proceedings-UNIF2021.pdf#page=32)
+- [Formal Analysis of Symbolic Authenticity ](https://www.uoh.cl/unif-2021/assets/proceedings-UNIF2021.pdf#page=38)
+- [Algorithmic Problems in Synthesized Cryptosystems](http://www3.risc.jku.at/publications/download/risc_6129/proceedings-UNIF2020.pdf#page=58)
+
