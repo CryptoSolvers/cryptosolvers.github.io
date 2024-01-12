@@ -18,7 +18,7 @@ as well as a general tool for working with unification and term rewriting.
 - [Chris Lynch](https://lin-web.clarkson.edu/~clynch/), Clarkson University
 - [Andrew Marshall](https://www.marshallandrew.net/), University of Mary Washington
 - [Brandon Rozek](https://brandonrozek.com), Rensselaer Polytechnic Institute
-- Kim Cornell, University at Albany - SUNY
+- [Kimberly A. Cornell](https://www.albany.edu/cehc/faculty/kimberly-cornell), University at Albany - SUNY
 - Serdar Erbatur, University of Texas at Dallas
 
 
